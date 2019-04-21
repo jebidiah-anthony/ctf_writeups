@@ -2,17 +2,17 @@
 
 ## CHALLENGE INFO
 
-- WRITTEN BY : okulkarni
-- DESCRIPTION :
+- __WRITTEN BY__ : okulkarni
+- __DESCRIPTION__ :
   ```
   Moar Horse is back and better than ever before! Check out this site and see if you can find the flag. It shouldn't be that hard, right?
   ```
-- CHALLENGE LINK: https://moar_horse_2.tjctf.org
-- LANDING PAGE: https://moar_horse_2.tjctf.org/4b043a01-a4b7-4141-8a99-fc94fe7e3778.html
+- __CHALLENGE LINK__: https://moar_horse_2.tjctf.org
+- __LANDING PAGE__: https://moar_horse_2.tjctf.org/4b043a01-a4b7-4141-8a99-fc94fe7e3778.html
   
   ![Landing Page](./screenshots/moar_horse_2_home.png)
 
-  - PAGE SOURCE:
+  - __PAGE SOURCE__:
     ```html
     <html>
 
@@ -37,7 +37,7 @@
 
     </html>
     ```
-- ASSUMED OBJECTIVE : Move FORWARD or BACKWARD to find the flag
+- __ASSUMED OBJECTIVE__ : Move FORWARD or BACKWARD to find the flag
 ---
 ## NOTES:
 
