@@ -1,5 +1,0 @@
-[![Fortune cookie (50 pts)](./screenshots/Fortune_cookie.png)](https://github.com/jebidiah-anthony/ctf_writeups/blob/master/2019_TG:Hack/Web_1_Fortune_cookie.md)
-[![Imagicur (150 pts)](./screenshots/Imagicur.png)](https://github.com/jebidiah-anthony/ctf_writeups/blob/master/2019_TG:Hack/Web_2_Imagicur.md)
-[![Wandshop (100 pts)](./screenshots/Wandshop.png)](https://github.com/jebidiah-anthony/ctf_writeups/blob/master/2019_TG:Hack/Web_3_Wandshop.md)
-[![itsmagic (100 pts)](./screenshots/itsmagic.png)](https://github.com/jebidiah-anthony/ctf_writeups/blob/master/2019_TG:Hack/Web_4_itsmagic.md)
-[![Wizardschat (300 pts)](./screenshots/Wizardschat.png)](https://github.com/jebidiah-anthony/ctf_writeups/blob/master/2019_TG:Hack/Web_5_Wizardschat.md)
