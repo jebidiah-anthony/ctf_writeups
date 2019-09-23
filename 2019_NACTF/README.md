@@ -13,5 +13,6 @@ Reversible Sneaky Algorithm #1 | 275 pts | Crypto | RSA
 Reversible Sneaky Algorithm #2 | 350 pts | Crypto | RSA
 Dr. J's Group Test Randomizer #2: BBOB | 625 pts | Crypto | Middle Square, Weyl Sequence, PRNG
 
+## CHALLENGE BOARD
 
 ![CRYPTO BOARD](./screenshots/crypto.png)
