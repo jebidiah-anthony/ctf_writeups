@@ -35,7 +35,8 @@ nc shell.2019.nactf.com 31258
 
 2. An actions menu is presented to the user:
    ```c
-   printf("\nWelcome to Dr. J's Random Number Generator v1! \n"
+   printf("\nWelcome to Dr. J's Random Number Generator v2! A vulnerability involving "
+   "predictability of outputs has been patched. \n"
    "[r] Print a new random number \n"
    "[g] Guess the next four random numbers and receive the flag! \n"
    "[q] Quit \n\n");
