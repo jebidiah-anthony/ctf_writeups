@@ -2,7 +2,7 @@
 ## CHALLENGE LIST
 
 CHALLENGE | POINTS | CATEGORY | TAGS
---- | --- | ---
+--- | --- | --- | ---
 Vyom's Soggy Croutons | 50 pts | Crypto | ROT9
 Loony Tunes | 50 pts | Crypto | Pigpen Cipher
 [Dr. J's Group Test Randomizer:<br/>Board Problem #0](./Crypto_3_Group_Test_Randomizer_0.md) | 100 pts | Crypto | Middle Square, PRNG
