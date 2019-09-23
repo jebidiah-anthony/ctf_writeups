@@ -1,4 +1,4 @@
-## Dr. J's Group Test Randomizer #0
+## Super Duper AES
 
 ### PART 1 : CHALLENGE DESCRIPTION
 
