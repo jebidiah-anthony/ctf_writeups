@@ -54,7 +54,7 @@ nc shell.2019.nactf.com 31258
       1. The __5th__ to the __8th__ digits from the right of the seed is squared.
       2. The squared number is now the new seed.
       3. This time, the "random" number generated is no longer the new seed. 
-         - The 13th to the 16th digits (from the right) of the new seed now serves as the "random" number generated.
+         - It is now The 13th to the 16th digits (from the right) or the leading digits of the new seed.
 
    2. __`[g]`__ lets the user guess the next four "random" numbers to get the flag.
 
