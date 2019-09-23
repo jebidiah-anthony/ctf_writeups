@@ -107,6 +107,7 @@ d59fd3f37182486a44231de4713131d20324fbfe80e91ae48658ba707cb84841972305fc3e0111c7
         >>> format(permutedBlock, "032b")
         '00000000000110000000000100000100'
         ```
+      - __`10001000000000001000000010000000`__ was just remapped to __`00000000000110000000000100000100`__
       - The permutation function basically checks if a bit is turned on in the ciphertext blockthen remaps them to a different position based on the __`permutation`__ array.
       - There will be no conflict in checking if a bit was originally turned on since each of the original set of bits could only be mapped to a corresponding unique position after the permutation.
 
