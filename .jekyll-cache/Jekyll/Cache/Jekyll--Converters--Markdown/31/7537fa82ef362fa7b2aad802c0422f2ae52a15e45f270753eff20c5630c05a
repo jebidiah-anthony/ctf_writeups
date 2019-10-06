@@ -1,11 +1,41 @@
-I"”<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+I"t<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+
 <ul>
-  <li><a href="#ctf-write-ups">CTF Write-ups</a></li>
-  <li><a href="#hackthebox-retired-challenges">HackTheBox Retired Challenges</a>
-    <ul>
-      <li><a href="#web-challenges">Web Challenges</a></li>
-    </ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><a href="#nactf-2019">NACTF 2019</a></td>
+          <td>Wed, 18 Sep 2019, 06:00 PHT - Mon, 23 Sep 2019, 06:00 PHT</td>
+        </tr>
+      </tbody>
+    </table>
   </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><a href="#tghack-2019">TG:Hack 2019</a></td>
+          <td>Thu, 18 Apr 2019, 00:00 PHT - Sun, 21 Apr 2019, 00:00 PHT</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><a href="#tjctf-2019">TJCTF 2019</a></td>
+          <td>Sat, 06 Apr 2019, 07:00 PHT - Wed, 10 Apr 2019, 07:00 PHT</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p><a href="#hackthebox-retired-challenges">HackTheBox Retired Challenges</a></p>
+<ul>
+  <li><a href="#web-challenges">Web Challenges</a></li>
 </ul>
 
 <hr />
@@ -88,31 +118,31 @@
       <td><strong style="text-decoration:underline">TAGS</strong></td>
     </tr>
     <tr>
-      <td>Fortune Cookie</td>
+      <td><a href="./chals/ctf/2019_TG:Hack/web/1_Fortune_cookie.html">Fortune Cookie</a></td>
       <td>50 pts</td>
       <td>Web</td>
       <td>HTTP Cookies</td>
     </tr>
     <tr>
-      <td>Imagicur</td>
+      <td><a href="./chals/ctf/2019_TG:Hack/web/2_Imagicur.html">Imagicur</a></td>
       <td>150 pts</td>
       <td>Web</td>
       <td>Arbitrary File Upload</td>
     </tr>
     <tr>
-      <td>Wandshop</td>
+      <td><a href="./chals/ctf/2019_TG:Hack/web/3_Wandshop.html">Wandshop</a></td>
       <td>100 pts</td>
       <td>Web</td>
       <td>Form Input Value</td>
     </tr>
     <tr>
-      <td>itsmagic</td>
+      <td><a href="./chals/ctf/2019_TG:Hack/web/4_itsmagic.html">itsmagic</a></td>
       <td>100 pts</td>
       <td>Web</td>
       <td>Directory Fuzzing</td>
     </tr>
     <tr>
-      <td>Wizardschat</td>
+      <td><a href="./chals/ctf/2019_TG:Hack/web/5_Wizardschat.html">Wizardschat</a></td>
       <td>300 pts</td>
       <td>Web</td>
       <td>Server-side Template Injection</td>
@@ -135,7 +165,7 @@
       <td><strong style="text-decoration:underline">TAGS</strong></td>
     </tr>
     <tr>
-      <td>Moar Horse 2</td>
+      <td><a href="./chals/ctf/2019_TJCTF/web/2_moar_horse_2.html">Moar Horse 2</a></td>
       <td>70 pts</td>
       <td>Web</td>
       <td>Scripting, Recursive Search</td>
@@ -160,7 +190,7 @@
       <td><strong style="text-decoration:underline">RETIRED</strong></td>
     </tr>
     <tr>
-      <td><a href="./htb/web/HDC.md">HDC</a></td>
+      <td><a href="./chals/htb/web/HDC.html">HDC</a></td>
       <td>30 pts</td>
       <td>Easy</td>
       <td>Thiseas</td>

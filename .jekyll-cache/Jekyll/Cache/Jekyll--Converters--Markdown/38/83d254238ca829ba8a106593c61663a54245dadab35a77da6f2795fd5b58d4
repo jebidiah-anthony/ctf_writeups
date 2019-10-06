@@ -1,12 +1,25 @@
-I"<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
-<ul>
-  <li><a href="#ctf-write-ups">CTF Write-ups</a></li>
-  <li><a href="#hackthebox-retired-challenges">HackTheBox Retired Challenges</a>
-    <ul>
-      <li><a href="#web-challenges">Web Challenges</a></li>
-    </ul>
-  </li>
-</ul>
+I"œ<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#nactf-2019">NACTF 2019</a></td>
+      <td>Wed, 18 Sep 2019, 06:00 PHT - Mon, 23 Sep 2019, 06:00 PHT</td>
+    </tr>
+    <tr>
+      <td><a href="#tghack-2019">TG:Hack 2019</a></td>
+      <td>Thu, 18 Apr 2019, 00:00 PHT - Sun, 21 Apr 2019, 00:00 PHT</td>
+    </tr>
+    <tr>
+      <td><a href="#tjctf-2019">TJCTF 2019</a></td>
+      <td>Sat, 06 Apr 2019, 07:00 PHT - Wed, 10 Apr 2019, 07:00 PHT</td>
+    </tr>
+    <tr>
+      <td><a href="#hackthebox-retired-challenges">HTB Retired Challenges</a></td>
+      <td><a href="#web-challenges">Web Challenges</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <hr />
 
@@ -160,7 +173,7 @@
       <td><strong style="text-decoration:underline">RETIRED</strong></td>
     </tr>
     <tr>
-      <td><a href="./htb/web/HDC.md">HDC</a></td>
+      <td><a href="./chals/htb/web/HDC.html">HDC</a></td>
       <td>30 pts</td>
       <td>Easy</td>
       <td>Thiseas</td>

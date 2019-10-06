@@ -1,66 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>jebidiah-anthony | write-ups and what nots</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="jebidiah-anthony" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="write-ups and what nots" />
-<meta property="og:description" content="write-ups and what nots" />
-<link rel="canonical" href="http://localhost:4000/ctf.html" />
-<meta property="og:url" content="http://localhost:4000/ctf.html" />
-<meta property="og:site_name" content="jebidiah-anthony" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/ctf.html","headline":"jebidiah-anthony","description":"write-ups and what nots","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <h1>jebidiah-anthony</h1>
-        <h2>write-ups and what nots</h2>
-
-	<span>
-	  <a href="/">home</a>
-          <a href="/htb.html">htb writeups</a>
-	  <a href="/ctf.html">ctf writeups</a>
-	</span>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
-
-<table>
-  <tbody>
-    <tr>
-      <td><a href="#nactf-2019">NACTF 2019</a></td>
-      <td>Wed, 18 Sep 2019, 06:00 PHT - Mon, 23 Sep 2019, 06:00 PHT</td>
-    </tr>
-    <tr>
-      <td><a href="#tghack-2019">TG:Hack 2019</a></td>
-      <td>Thu, 18 Apr 2019, 00:00 PHT - Sun, 21 Apr 2019, 00:00 PHT</td>
-    </tr>
-    <tr>
-      <td><a href="#tjctf-2019">TJCTF 2019</a></td>
-      <td>Sat, 06 Apr 2019, 07:00 PHT - Wed, 10 Apr 2019, 07:00 PHT</td>
-    </tr>
-    <tr>
-      <td><a href="#hackthebox-retired-challenges">HTB Retired Challenges</a></td>
-      <td>(<a href="#web-challenges">Web</a>)</td>
-    </tr>
-  </tbody>
-</table>
+I"·<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+<p><a href="#nactf-2019">NACTF 2019</a> | Wed, 18 Sep 2019, 06:00 PHT - Mon, 23 Sep 2019, 06:00 PHT
+<a href="#tghack-2019">TG:Hack 2019</a> | Thu, 18 Apr 2019, 00:00 PHT - Sun, 21 Apr 2019, 00:00 PHT
+<a href="#tjctf-2019">TJCTF 2019</a> | Sat, 06 Apr 2019, 07:00 PHT - Wed, 10 Apr 2019, 07:00 PHT
+<a href="#hackthebox-retired-challenges">HTB Retired Challenges</a> | (<a href="#web-challenges">Web</a>)</p>
 
 <hr />
 
@@ -223,10 +165,4 @@
     </tr>
   </tbody>
 </table>
-
-      </section>
-    </div>
-
-    
-  </body>
-</html>
+:ET
